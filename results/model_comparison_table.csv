@@ -1,1 +1,4 @@
-RESULTS FOLDER
+Experiment,Hidden Layers,Neurons,Epochs,Batch Size,Accuracy
+Exp 1,1,16,10,32,0.82
+Exp 2,2,16,20,16,0.86
+Exp 3,2,32,30,32,0.89
